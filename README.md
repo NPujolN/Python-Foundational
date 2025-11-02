@@ -2,9 +2,7 @@
 To build a strong grounding in molecular biology, programming, and essential bioinformatics tools. Mostly a refresher.
 
 The aim of this foundational workspace is:
-- To have a place in which I note useful commands and describe computational terms.
-- To recap and master python fundamentals.
-- To recap and master Git fundamentals.
+- To have a place in which I note useful Python commands and describe computational terms.
 - To recap and master python fundamental libraries such as numpy, pandas and matplotlib.
 - Create an overview of the drug discovery pipeline.
 - List, link and define the major bioinformatics databases.
